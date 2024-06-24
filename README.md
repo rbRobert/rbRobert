@@ -4,7 +4,7 @@
 <h3 align="left">About me:</h3>
 graduated as and qualified as a systems engineer, passionate about new technologies and software development. Additionally, I am an IT professional skills in NodeJS, Express, Typescript, NestJS. I look for opportunities to develop practical skills to contribute to the success of large projects.
 
-<h3 align="left">other technologies:</h3>
+<h3 align="left">Other technologies:</h3>
 <ul>
   <li>Languages: JavaScript, TypeScript, Java</li>
   <li>Backend: Node.js, NestJS, Express.js</li>
