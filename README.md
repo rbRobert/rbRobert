@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robert Balcazar</h1>
-<h3 align="center">A passionate backend developer from Peru lima</h3>
+<h3 align="center">I am a passionate Full Stack Developer specializing in backend development</h3>
+
+<h3 align="left">About me:</h3>
+graduated as and qualified as a systems engineer, passionate about new technologies and software development. Additionally, I am an IT professional skills in NodeJS, Express, Typescript, NestJS. I look for opportunities to develop practical skills to contribute to the success of large projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
