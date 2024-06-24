@@ -5,10 +5,12 @@
 graduated as and qualified as a systems engineer, passionate about new technologies and software development. Additionally, I am an IT professional skills in NodeJS, Express, Typescript, NestJS. I look for opportunities to develop practical skills to contribute to the success of large projects.
 
 <h3 align="left">other technologies:</h3>
-- Languages: JavaScript, TypeScript, Java
-- Backend: Node.js, NestJS, Express.js
-- Databases: MongoDB, PostgreSQL, PL/SQL Oracle
-- Misc: JWT, bcrypt, Cloudinary
+<ul>
+  <li>Languages: JavaScript, TypeScript, Java</li>
+  <li>Backend: Node.js, NestJS, Express.js</li>
+  <li>Databases: MongoDB, PostgreSQL, PL/SQL Oracle</li>
+  <li>Misc: JWT, bcrypt, Cloudinary</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
